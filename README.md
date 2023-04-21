@@ -3,7 +3,9 @@
 See [stacker.news](https://stacker.news) every time you open a new browser tab
 
 ## Usage
+Live in the Chrome Web Store. [Install here](https://chrome.google.com/webstore/detail/stacker-tab/eckplbedjecealmhnahkdhddnoenecck)
 
+### Install Locally
 1. Pull down this repo:
 
 ```
